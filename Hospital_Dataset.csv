@@ -1,0 +1,4 @@
+Patient ID,Name,Age,Gender,Admission Date,Discharge Date,Diagnosis,Doctor Assigned,Room Number,Treatment Cost
+101,Alice Johnson,25,Female,2024-12-01,2024-12-05,Flu,Dr. Adams,201,200
+102,Bob Smith,40,Male,2024-12-03,2024-12-07,Fracture,Dr. Baker,305,1500
+103,Charlie Brown,32,Male,2024-12-05,2024-12-08,Migraine,Dr. Carter,101,300
